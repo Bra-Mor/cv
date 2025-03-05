@@ -14,7 +14,6 @@ body {
 }
 
 h1 {
-  /* margin-top: 58px; */
   font-size: 28px;
   color: #222;
 }
@@ -25,7 +24,7 @@ h2 {
 
 p {
   color: #727272;
-  text-align: justify;
+  padding-left: 8px;
 }
 
 a {
@@ -46,6 +45,7 @@ li {
 }
 
 #text {
+  padding: 0px;
   margin-top: 0%;
   margin-bottom: 0px;
 }
